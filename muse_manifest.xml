@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.nasianiepizzeria.pl" resolutions="1x" timestamp="1479295078332">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.nasianiepizzeria.pl" resolutions="1x" timestamp="1479391075775">
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="473776976" ref="index"/>
+    <file name="site_global.css" crc="3996754317"/>
+    <file name="index.css" crc="4075948238" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,16 +10,22 @@
     <file name="museconfig.js" crc="36584860" ref="index"/>
     <file name="jquery.watch.js" crc="104486786" ref="index"/>
     <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
   </folder>
   <folder name="images">
     <file name="facebook_2015_logo_detail.jpg" crc="145098300" seo="true" ref="index"/>
     <file name="lopata 2.png" crc="224631682" seo="true" ref="index"/>
     <file name="kolo.png" crc="4185343558" seo="true" ref="index"/>
     <file name="logo bez adresu.jpg" crc="468914565" seo="true" ref="index"/>
-    <file name="wood frame.jpg" crc="3762641529" seo="true" ref="index"/>
-    <file name="u385-249.png" crc="383003317" ref="index"/>
+    <file name="u385-249.png" crc="39309751" ref="index"/>
     <file name="logo 3-u1927.png" crc="3824182646" ref="index"/>
     <file name="dsdasdsa 2.jpg" crc="191261546" ref="index"/>
+    <file name="godziny i promocje.jpg" crc="3770986942" seo="true" ref="index"/>
+    <file name="stock-vector-set-of-pizza-doodle-114355927.png" crc="4194873826" ref="index"/>
   </folder>
-  <file name="index.html" crc="4028081852" seo="true" mt="1479259539699" redirect="true"/>
+  <file name="index.html" crc="186737280" seo="true" mt="1479390029795" redirect="true"/>
 </manifest>
