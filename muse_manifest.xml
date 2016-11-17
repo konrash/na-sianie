@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.nasianiepizzeria.pl" resolutions="1x" timestamp="1479393827991">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.nasianiepizzeria.pl" resolutions="1x" timestamp="1479397492526">
   <folder name="css">
     <file name="site_global.css" crc="3996754317"/>
-    <file name="index.css" crc="3851378002" ref="index"/>
+    <file name="index.css" crc="4212058660" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -25,7 +25,7 @@
     <file name="logo 3-u1927.png" crc="3824182646" ref="index"/>
     <file name="dsdasdsa 2.jpg" crc="191261546" ref="index"/>
     <file name="godziny i promocje.jpg" crc="3770986942" seo="true" ref="index"/>
-    <file name="pizza 3.jpg" crc="143592789" ref="index"/>
+    <file name="pizza 3.jpg" crc="293553571" ref="index"/>
   </folder>
-  <file name="index.html" crc="4060632665" seo="true" mt="1479393801596" redirect="true"/>
+  <file name="index.html" crc="4029333110" seo="true" mt="1479397456154" redirect="true"/>
 </manifest>
