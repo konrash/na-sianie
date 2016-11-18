@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.nasianiepizzeria.pl" resolutions="1x" timestamp="1479428065814">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.nasianiepizzeria.pl" resolutions="1x" timestamp="1479463055792">
   <folder name="css">
     <file name="site_global.css" crc="4214341673"/>
-    <file name="index.css" crc="3910589814" ref="index"/>
+    <file name="index.css" crc="171226050" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -22,7 +22,7 @@
     <file name="new blurred.jpg" crc="469343208" ref="index"/>
     <file name="wood_floor_by_gnrbishop (1).jpg" crc="200766622" ref="index"/>
     <file name="lopata 2-u761.png" crc="3989605730" ref="index"/>
-    <file name="u616-6.png" crc="25731568" ref="index"/>
+    <file name="u616-6.png" crc="4008972423" ref="index"/>
   </folder>
-  <file name="index.html" crc="3924282196" seo="true" mt="1479426790454" redirect="true"/>
+  <file name="index.html" crc="200261187" seo="true" mt="1479463040960" redirect="true"/>
 </manifest>
